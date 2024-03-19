@@ -18,5 +18,8 @@ const styles = StyleSheet.create({
     marginTop: 64,
     borderWidth: 6,
     borderBlockColor: "black",
+    flex: 1,
+    justifyContent: "center",
+    gap: 10,
   },
 });
